@@ -33,3 +33,4 @@ p01/
 3. ต้องมี attribute `firstname` และ `lastname`
 4. ต้องมี method `printName()` สำหรับแสดงชื่อเต็ม
 5. ห้ามใช้ `any`
+
