@@ -1,7 +1,7 @@
 export class Person {
     firstname?: string = "";
     lastname?: string = "";
-    age?: number = 0;
+    private age?: number = 0;
 
     static COUNTRY: string = "Thailand";
 
